@@ -8,10 +8,11 @@ import CiniTicket from "@/components/7.1.CiniTicket";
 import CiniFB from "@/components/7.2.CiniFB";
 import CiniSignage from "@/components/7.3.CiniSignage";
 import Integrations from "@/components/8.Integrations";
+import Partners from "@/components/9.Partners";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col">
+    <main className="min-h-screen bg-slate-50 flex flex-col items-center pt-20">
       <Hero />
       <StatsPromo />
       <CloudManagement />
@@ -22,6 +23,7 @@ export default function Home() {
       <CiniFB />
       <CiniSignage />
       <Integrations />
+      <Partners />
     </main>
   );
 }
