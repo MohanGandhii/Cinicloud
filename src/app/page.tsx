@@ -12,7 +12,7 @@ import Partners from "@/components/9.Partners";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-slate-50 flex flex-col items-center pt-20">
+    <main className="min-h-screen bg-slate-50 flex flex-col items-center">
       <Hero />
       <StatsPromo />
       <CloudManagement />
