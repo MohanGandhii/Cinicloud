@@ -8,7 +8,7 @@ export default function StatsPromo() {
         {/* Left Side: Image */}
         <div className="w-full md:w-1/2 flex justify-center md:justify-end">
           <Image 
-            src="/assets/3/phone_ticket.png" 
+            src="/Assets/3/phone_ticket.png" 
             alt="CiniCloud Phone Ticket" 
             width={600} 
             height={500} 

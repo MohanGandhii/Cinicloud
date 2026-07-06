@@ -53,7 +53,7 @@ export default function Hero() {
         {/* Devices Image container */}
         <div className="relative z-20 w-full max-w-[1200px] px-4 md:px-8">
            <Image 
-             src="/assets/1.hero/banner_image.png" 
+             src="/Assets/2.hero/banner_image.png" 
              alt="CiniCloud Devices" 
              width={1400} 
              height={700} 
