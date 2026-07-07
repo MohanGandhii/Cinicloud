@@ -13,7 +13,7 @@ export default function Hero() {
           </svg>
         </div>
 
-        <div className="relative z-10 flex flex-col items-center max-w-5xl text-center px-4">
+        <div className="relative z-10 flex flex-col items-center w-full max-w-[1200px] text-center px-4 md:px-8">
           <h1 className="text-4xl md:text-5xl lg:text-[56px] font-bold leading-[1.1] mb-6">
             World’s most powerful{" "}
             <span className="relative inline-block whitespace-nowrap">
@@ -65,7 +65,7 @@ export default function Hero() {
       
       {/* Stats section on white background */}
       <section className="relative w-full bg-white flex flex-col items-center justify-center">
-        <div className="w-full max-w-6xl px-8 py-12 md:py-16">
+        <div className="w-full max-w-[1200px] px-4 md:px-8 py-12 md:py-16">
           {/* Border-y added here to match the screenshot */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left border-y border-slate-200 py-8">
             

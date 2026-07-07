@@ -23,7 +23,7 @@ export default function CiniSignage() {
             <h3 className="text-2xl md:text-[28px] lg:text-[32px] font-bold text-[#111827] mb-6">
               Cini Signage
             </h3>
-            <p className="text-[#334155] text-sm md:text-base leading-[1.8] text-justify">
+            <p className="text-[#334155] text-sm md:text-base leading-[1.8] text-left md:text-justify">
               CiniSignage is a cloud-based digital signage platform that
               helps you to automate the delivery of movie posters. You
               can dynamically configure the showtimes, posters, offers,

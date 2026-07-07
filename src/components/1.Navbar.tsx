@@ -29,7 +29,7 @@ export default function Navbar() {
           : "bg-transparent text-white"
       }`}
     >
-      <div className="max-w-[1920px] mx-auto w-full flex items-center justify-between">
+      <div className="max-w-[1200px] mx-auto w-full flex items-center justify-between">
         <div className="flex items-center gap-3">
           {/* Simple placeholder logo */}
           <div className="w-8 h-8 bg-gradient-to-tr from-emerald-400 to-emerald-600 rounded-md flex items-center justify-center font-bold text-white text-lg shadow-sm">

@@ -23,7 +23,7 @@ export default function WhatYouGet() {
             <h3 className="text-2xl md:text-[28px] lg:text-[32px] font-bold text-[#111827] mb-6">
               CiniCloud
             </h3>
-            <p className="text-[#334155] text-sm md:text-base leading-[1.8] text-justify">
+            <p className="text-[#334155] text-sm md:text-base leading-[1.8] text-left md:text-justify">
               CiniCloud is an end-to-end integrated platform for theatre
               management, ticketing fulfillment and delivery including all other
               services like locations management, movie cataloging, screen

@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Footer() {
   return (
     <footer className="w-full bg-[#23253a] text-white font-sans mt-auto">
-      <div className="max-w-[1100px] mx-auto px-4 md:px-8 py-16 md:py-20">
+      <div className="max-w-[1200px] mx-auto px-4 md:px-8 py-16 md:py-20">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-8">
           
           {/* Column 1: Logo */}
@@ -37,7 +37,7 @@ export default function Footer() {
               Connect via WhatsApp
             </a>
             
-            <p className="text-[14px] text-[#cccccc] flex items-center gap-1.5 whitespace-nowrap">
+            <p className="text-[14px] text-[#cccccc] flex flex-wrap items-center gap-1.5">
               Made with <span className="text-red-500 text-lg leading-none mt-0.5">❤️</span> from Chennai by CiniCloud team.
             </p>
           </div>

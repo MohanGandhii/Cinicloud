@@ -11,7 +11,7 @@ export default function CiniFB() {
             <h3 className="text-2xl md:text-[28px] lg:text-[32px] font-bold text-[#111827] mb-6">
               Cini F&B
             </h3>
-            <p className="text-[#334155] text-sm md:text-base leading-[1.8] text-justify">
+            <p className="text-[#334155] text-sm md:text-base leading-[1.8] text-left md:text-justify">
               Cini F&B is a Food & Beverage platform where you can
               manage your entire cinemas food & beverages inventory
               easily with world class modules like end to end Recipe

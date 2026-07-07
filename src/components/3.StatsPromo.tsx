@@ -22,11 +22,11 @@ export default function StatsPromo() {
             We have booked
           </h2>
           
-          <div className="flex items-center flex-nowrap whitespace-nowrap justify-center md:justify-start gap-x-2 md:gap-x-4 mb-1">
-            <span className="text-6xl sm:text-7xl md:text-[80px] lg:text-[100px] font-bold bg-gradient-to-br from-orange-400 to-orange-500 text-transparent bg-clip-text pb-2">
+          <div className="flex items-center flex-wrap justify-center md:justify-start gap-x-2 md:gap-x-4 mb-1">
+            <span className="text-5xl sm:text-7xl md:text-[80px] lg:text-[100px] font-bold bg-gradient-to-br from-orange-400 to-orange-500 text-transparent bg-clip-text pb-2">
               10
             </span>
-            <span className="text-6xl sm:text-7xl md:text-[80px] lg:text-[100px] font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#e8479e] via-[#a855f7] to-[#3b82f6] pb-2">
+            <span className="text-5xl sm:text-7xl md:text-[80px] lg:text-[100px] font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#e8479e] via-[#a855f7] to-[#3b82f6] pb-2">
               Million
             </span>
             <span className="flex-shrink-0 relative -top-2 ml-2 hidden sm:block">

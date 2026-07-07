@@ -23,7 +23,7 @@ export default function CiniTicket() {
             <h3 className="text-2xl md:text-[28px] lg:text-[32px] font-bold text-[#111827] mb-6">
               CiniTicket
             </h3>
-            <p className="text-[#334155] text-sm md:text-base leading-[1.8] text-justify">
+            <p className="text-[#334155] text-sm md:text-base leading-[1.8] text-left md:text-justify">
               CiniTicket is an end-to-end ticketing platform for booking tickets
               in over 10 different channels including iOS App, Android App,
               Website, Box Office POS systems, Phone Booking, IVR Booking, etc.

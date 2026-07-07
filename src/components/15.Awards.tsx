@@ -27,7 +27,7 @@ export default function Awards() {
 
   return (
     <section className="w-full bg-white py-16 border-y border-gray-200 font-sans">
-      <div className="max-w-[1100px] mx-auto px-4 md:px-8">
+      <div className="max-w-[1200px] mx-auto px-4 md:px-8">
         
         {/* Header */}
         <div className="text-center mb-16">
