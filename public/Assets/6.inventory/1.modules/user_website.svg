@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>user_website</title>
+    <desc>Created with Sketch.</desc>
+    <g id="user_website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4658145_computer_electronic_lcd_monitor_screen_icon-copy" transform="translate(5.000000, 9.000000)" fill="#0968AC" fill-rule="nonzero">
+            <rect id="Rectangle" x="45.96" y="34.16" width="4" height="4" rx="2"></rect>
+            <path d="M55.06,44 L4.94,44 C2.21171334,44 0,41.7882867 0,39.06 L0,4.94 C0,2.21171334 2.21171334,0 4.94,0 L55.06,0 C57.7882867,0 60,2.21171334 60,4.94 L60,39.06 C60,41.7882867 57.7882867,44 55.06,44 Z M4.94,4 C4.42085234,4 4,4.42085234 4,4.94 L4,39.06 C4,39.5791477 4.42085234,40 4.94,40 L55.06,40 C55.5791477,40 56,39.5791477 56,39.06 L56,4.94 C56,4.42085234 55.5791477,4 55.06,4 L4.94,4 Z" id="Shape"></path>
+            <rect id="Rectangle" x="2" y="28" width="56" height="4"></rect>
+            <rect id="Rectangle" x="16" y="48" width="28" height="4" rx="2"></rect>
+            <rect id="Rectangle" x="21.72" y="41.34" width="4" height="8"></rect>
+            <rect id="Rectangle" x="34.22" y="41.34" width="4" height="8"></rect>
+            <path d="M6.44,0.76 L53.62,0.76 C56.0312182,0.759974863 57.9889899,2.70880694 58,5.12 L58,30 L2,30 L2,5.12 C2.00522653,3.95135219 2.47726599,2.83325494 3.31111101,2.01443415 C4.14495604,1.19561336 5.27145032,0.743979279 6.44,0.76 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

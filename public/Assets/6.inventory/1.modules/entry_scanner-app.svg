@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>entry_scanner-app</title>
+    <desc>Created with Sketch.</desc>
+    <g id="entry_scanner-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1217714_code_qr_scan_icon-copy" transform="translate(3.000000, 8.000000)" fill="#0968AC" fill-rule="nonzero">
+            <path d="M0,13.4 L5.2,13.4 L5.2,5.2 L12.9,5.2 L12.9,0 L0,0 L0,13.4 Z M5.2,40.8 L0,40.8 L0,54.2 L12.9,54.2 L12.9,49 L5.2,49 L5.2,40.8 L5.2,40.8 Z M58.2,49 L50.5,49 L50.5,54.2 L63.4,54.2 L63.4,40.8 L58.2,40.8 L58.2,49 Z M50.5,0 L50.5,5.2 L58.2,5.2 L58.2,13.4 L63.4,13.4 L63.4,0 L50.5,0 Z" id="Shape"></path>
+            <rect id="Rectangle" x="12.9" y="11.8" width="4.6" height="30.7"></rect>
+            <rect id="Rectangle" x="26.6" y="11.8" width="6.1" height="30.7"></rect>
+            <rect id="Rectangle" x="44.4" y="11.8" width="6.1" height="30.7"></rect>
+            <rect id="Rectangle" x="19.5" y="11.8" width="2.3" height="30.7"></rect>
+            <rect id="Rectangle" x="38.5" y="11.8" width="2.3" height="30.7"></rect>
+        </g>
+    </g>
+</svg>
